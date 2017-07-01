@@ -1,0 +1,606 @@
+1498820102539	geckodriver	INFO	Listening on 127.0.0.1:28613
+1498820104534	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498820246209	geckodriver	INFO	Listening on 127.0.0.1:28931
+1498820248127	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498820257724	Marionette	INFO	Listening on port 28942
+1498820258734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 6752 is invalid -- plural rule #1;
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498821141833	Marionette	INFO	Ceased listening
+/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498820880485	Marionette	INFO	Ceased listening
+0.0.1:29805
+1498820855510	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498820864218	Marionette	INFO	Listening on port 29811
+1498820865005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498820884220	Marionette	INFO	Ceased listening
+1498820993843	geckodriver	INFO	Listening on 127.0.0.1:29963
+1498820995893	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498821003280	Marionette	INFO	Listening on port 29969
+1498821004494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498821141814	Marionette	INFO	Ceased listening
+0.0.1:30155
+1498821119949	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498821127538	Marionette	INFO	Listening on port 30162
+1498821127843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498821142298	Marionette	INFO	Ceased listening
+1498821264319	geckodriver	INFO	Listening on 127.0.0.1:30295
+1498821266335	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498821272061	Marionette	INFO	Listening on port 30302
+1498821273305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?d=20170630191645, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498822290156	Marionette	INFO	Ceased listening
+262
+1498821851112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 6752 is invalid -- plural rule #1;
+
+1498822291284	Marionette	INFO	Ceased listening
+nette"]
+1498821872575	Marionette	INFO	Listening on port 31327
+1498821873120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498821878807	Marionette	INFO	Ceased listening
+1498821963695	geckodriver	INFO	Listening on 127.0.0.1:31442
+1498821965739	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498821973413	Marionette	INFO	Listening on port 31451
+1498821973629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+console.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:617:19
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+observe@resource://gre/modules/AsyncShutdown.jsm:550:9
+addBlocker/moduleBlocker/<@resource://gre/components/nsAsyncShutdown.js:157:15
+Promise@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:390:5
+moduleBlocker@resource://gre/components/nsAsyncShutdown.js:153:29
+trigger@resource://gre/modules/AsyncShutdown.jsm:719:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:866:7
+wait@resource://gre/modules/AsyncShutdown.jsm:850:28
+observe@resource://gre/modules/AsyncShutdown.jsm:533:17
+
+1498821980726	Marionette	INFO	Ceased listening
+1498822108964	geckodriver	INFO	Listening on 127.0.0.1:31649
+1498822110981	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498822117949	Marionette	INFO	Listening on port 31656
+1498822118741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498822194369	Marionette	INFO	Ceased listening
+0.0.1:31730
+1498822160268	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498822166420	Marionette	INFO	Listening on port 31739
+1498822167447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498822290751	Marionette	INFO	Ceased listening
+0.0.1:31786
+1498822179296	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498822185192	Marionette	INFO	Listening on port 31795
+1498822186265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498822290779	Marionette	INFO	Ceased listening
+0.0.1:31956
+1498822259650	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498822264711	Marionette	INFO	Listening on port 31962
+1498822265172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498822290749	Marionette	INFO	Ceased listening
+0.0.1:32026
+1498822287696	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498822295711	Marionette	INFO	Listening on port 32034
+1498822296504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498822529012	Marionette	INFO	Ceased listening
+1498822529575	geckodriver	INFO	Listening on 127.0.0.1:32387
+1498822531542	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498822537250	Marionette	INFO	Listening on port 32394
+1498822538185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498823880347	Marionette	INFO	Ceased listening
+/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript error: http://j5.dfcfw.com/js/f10/f10_min_20170209170322.js, line 1: TypeError: $(...).getElementsByTagName is not a function
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498823880283	Marionette	INFO	Ceased listening
+856
+1498823301557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498823880339	Marionette	INFO	Ceased listening
+0.0.1:39935
+1498823356923	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498823362628	Marionette	INFO	Listening on port 39947
+1498823363836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498823866948	Marionette	INFO	Ceased listening
+arionette"]
+1498823517118	Marionette	INFO	Listening on port 40120
+1498823518122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498823880156	Marionette	INFO	Ceased listening
+0.0.1:40234
+1498823599983	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498823606103	Marionette	INFO	Listening on port 40242
+1498823607080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498823877831	Marionette	INFO	Ceased listening
+1498823909951	geckodriver	INFO	Listening on 127.0.0.1:40564
+1498823911961	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498823918406	Marionette	INFO	Listening on port 40574
+1498823919346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?d=20170630195607, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?d=20170630195607, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?d=20170630195607, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?d=20170630195607, line 9: unreachable code after return statement
+1498823938529	Marionette	INFO	Ceased listening
+1498823944081	geckodriver	INFO	Listening on 127.0.0.1:40709
+1498823946270	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498823952505	Marionette	INFO	Listening on port 40720
+1498823953518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript error: http://j5.dfcfw.com/js/f10/f10_min_20170209170322.js, line 1: TypeError: $(...).getElementsByTagName is not a function
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript error: http://j5.dfcfw.com/js/f10/f10_min_20170209170322.js, line 1: TypeError: $(...).getElementsByTagName is not a function
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498825467173	Marionette	INFO	Ceased listening
+0.0.1:41547
+1498824876471	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498824883543	Marionette	INFO	Listening on port 41555
+1498824883862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498825467149	Marionette	INFO	Ceased listening
+0.0.1:41701
+1498825019492	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498825024538	Marionette	INFO	Listening on port 41707
+1498825025647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498825467199	Marionette	INFO	Ceased listening
+0.0.1:41818
+1498825099657	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498825104930	Marionette	INFO	Listening on port 41826
+1498825105981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498825467197	Marionette	INFO	Ceased listening
+0.0.1:42008
+1498825266722	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498825272485	Marionette	INFO	Listening on port 42015
+1498825273445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498825466822	Marionette	INFO	Ceased listening
+0.0.1:42123
+1498825340102	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498825346492	Marionette	INFO	Listening on port 42131
+1498825346584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498825467158	Marionette	INFO	Ceased listening
+0.0.1:42288
+1498825443629	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498825449965	Marionette	INFO	Listening on port 42295
+1498825451139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498825467253	Marionette	INFO	Ceased listening
+1498825475418	geckodriver	INFO	Listening on 127.0.0.1:42356
+1498825477505	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498825484766	Marionette	INFO	Listening on port 42365
+1498825484898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498826021507	Marionette	INFO	Ceased listening
+0.0.1:42517
+1498825644345	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498825651126	Marionette	INFO	Listening on port 42524
+1498825651740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498826289143	Marionette	INFO	Ceased listening
+591
+1498825693073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498826638961	Marionette	INFO	Ceased listening
+987
+1498826043141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498826638399	Marionette	INFO	Ceased listening
+0.0.1:43120
+1498826138303	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498826145055	Marionette	INFO	Listening on port 43126
+1498826145696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498826638664	Marionette	INFO	Ceased listening
+0.0.1:43189
+1498826179510	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498826185173	Marionette	INFO	Listening on port 43196
+1498826186159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498826638815	Marionette	INFO	Ceased listening
+0.0.1:43255
+1498826203831	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498826209835	Marionette	INFO	Listening on port 43262
+1498826211782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498826639083	Marionette	INFO	Ceased listening
+0.0.1:43339
+1498826244680	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498826250407	Marionette	INFO	Listening on port 43346
+1498826251270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498826638664	Marionette	INFO	Ceased listening
+0.0.1:43525
+1498826310514	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498826316978	Marionette	INFO	Listening on port 43532
+1498826318126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498826639085	Marionette	INFO	Ceased listening
+0.0.1:43599
+1498826334337	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498826340069	Marionette	INFO	Listening on port 43607
+1498826341472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498826638697	Marionette	INFO	Ceased listening
+0.0.1:43895
+1498826442082	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498826448301	Marionette	INFO	Listening on port 43907
+1498826449296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498826638667	Marionette	INFO	Ceased listening
+0.0.1:44306
+1498826613930	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498826621706	Marionette	INFO	Listening on port 44319
+1498826621908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498826639282	Marionette	INFO	Ceased listening
+1498826646349	geckodriver	INFO	Listening on 127.0.0.1:44518
+1498826648366	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498826654018	Marionette	INFO	Listening on port 44524
+1498826654154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829968648	Marionette	INFO	Ceased listening
+783
+1498826722257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829968096	Marionette	INFO	Ceased listening
+ was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829968087	Marionette	INFO	Ceased listening
+217
+1498826794808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498827419296	geckodriver	INFO	Listening on 127.0.0.1:45968
+1498827421541	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+141498829968666	Marionette	INFO	Ceased listening
+977
+1498827428051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829968429	Marionette	INFO	Ceased listening
+163
+1498827551612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829967966	Marionette	INFO	Ceased listening
+633
+1498827822502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829967976	Marionette	INFO	Ceased listening
+750
+1498827889339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829967966	Marionette	INFO	Ceased listening
+351
+1498828058561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829968610	Marionette	INFO	Ceased listening
+Test.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1498828239685	Marionette	INFO	Listening on port 47790
+1498828240726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829968086	Marionette	INFO	Ceased listening
+261
+1498828440797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829967977	Marionette	INFO	Ceased listening
+689
+1498828628654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498829967764	Marionette	INFO	Ceased listening
+461
+1498828965365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498829404215	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498829988569	geckodriver	INFO	Listening on 127.0.0.1:54274
+1498829990529	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498829996430	Marionette	INFO	Listening on port 54282
+1498829997839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498830412962	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498830452957	geckodriver	INFO	Listening on 127.0.0.1:55159
+1498830454979	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498830460996	Marionette	INFO	Listening on port 55167
+1498830461945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498831159730	Marionette	INFO	Ceased listening
+0.0.1:56077
+1498830925056	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498830930896	Marionette	INFO	Listening on port 56092
+1498830931951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498831165783	geckodriver::marionette	ERROR	Failed to kill browser process
+thread '<unnamed>' panicked at 'called `Result::unwrap()` on an `Err` value: Error { repr: Os { code: 10054, message: "远程主机强迫关闭了一个现有的连接。" } }', src\libcore\result.rs:859
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+1498865829607	geckodriver	INFO	Listening on 127.0.0.1:2574
+1498865831222	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498865931337	Marionette	INFO	Listening on port 2586
+1498865933397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498866727827	Marionette	INFO	Ceased listening
+1
+1498866113104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498866188847	Marionette	INFO	Ceased listening
+1498866441594	geckodriver	INFO	Listening on 127.0.0.1:3257
+1498866443663	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498866448965	Marionette	INFO	Listening on port 3263
+1498866449663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498866691543	Marionette	INFO	Ceased listening
+0.0.1:4177
+1498866643882	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498866649837	Marionette	INFO	Listening on port 4184
+1498866651389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1498866727879	Marionette	INFO	Ceased listening
+1498866728776	geckodriver	INFO	Listening on 127.0.0.1:4835
+1498866730831	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498866735574	Marionette	INFO	Listening on port 4841
+1498866736108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript error: http://j5.dfcfw.com/js/f10/f10_min_20170209170322.js, line 1: TypeError: $(...).getElementsByTagName is not a function
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498869240043	Marionette	INFO	Ceased listening
+5
+1498866813355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498868089041	Marionette	INFO	Ceased listening
+5
+1498866964290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498868088969	Marionette	INFO	Ceased listening
+8
+1498867023538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498869239788	Marionette	INFO	Ceased listening
+7
+1498867194472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498869240116	Marionette	INFO	Ceased listening
